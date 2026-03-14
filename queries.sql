@@ -2,7 +2,7 @@
 -- Step 0: Create the project database
 -- --------------------------------------------------
 -- Creates a new database named 'project'. 
--- All subsequent tables (city, customers, products, sales) are assumed to exist in this database.
+-- All subsequent tables (city, customers, products, sales) are imported to exist in this database.
 CREATE DATABASE project;
 
 -- --------------------------------------------------
